@@ -1,0 +1,205 @@
+/* * {
+    outline: 2px solid red;
+} */
+
+body {
+    font-family: Roboto, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.LinkText {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.LogoText {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    gap: 44px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header {
+    background-color: #1F2937;
+    padding: 0 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+}
+
+.footer {
+    font-size: 18px;
+    color: #E5E7EB;
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+}
+
+.body {
+    display: flex;
+    flex-direction: column;
+}
+
+.content {
+    flex: 1;
+}
+
+.secondcol {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+    background-color: #1F2937;
+}
+
+.AwesomeImage {
+    height: 200px;
+    width: 650px;
+}
+
+.MainText {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+    margin: 0;
+}
+
+.MainDesc {
+    font-size: 18px;
+    color: #E5E7EB;
+    margin: 0;
+}
+
+.MainSignUp {
+    background: #3882F6;
+    border: #3882F6;
+    border-radius: 10px;
+    color: white;
+    width: 150px;
+    font-size: 18px;
+    padding: 7px;
+    font-weight: bold;
+}
+
+.Awesome {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 200px;
+}
+
+.thirdcol {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 40px 70px 40px;
+    background-color: #F9FAF8;
+}
+
+.RandomInfo {
+    text-align: center;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    padding-bottom: 30px;
+}
+
+.ImgContainer {
+    display: flex;
+    gap: 40px;
+}
+
+.ImgSports {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 15px;
+    color: gray;
+}
+
+.ImgFrame {
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+    border: 2px solid #3882F6;
+    margin-bottom: 5px;
+}
+
+.fourthcol {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 120px 300px;
+}
+
+.Quotes {
+    text-align: left;
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+    font-weight: 100;
+}
+
+.QuotesBy {
+    font-size: 18px;
+    font-weight: 900;
+    text-align: right;
+    color: #1F2937;
+}
+
+.fifthcol {
+    background-color: #F9FAF8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+}
+
+.BlueContainer {
+    border-radius: 5px;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 100px;
+    gap: 150px;
+}
+
+.ItsTime {
+    font-size: 18px;
+    font-weight: 900;
+    color: #F9FAF8;
+}
+
+.Click {
+    color: #F9FAF8;
+}
+
+.SignUp {
+    background: #3882F6;
+    border: 2px solid #F9FAF8;
+    border-radius: 5px;
+    color: white;
+    width: 150px;
+    font-size: 18px;
+    padding: 7px;
+}
+
+
